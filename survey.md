@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:Green 
+Favorite food: Shawarma
+Favorite musician/band: Ishay Ribo
+Favorite movie: The lion king
+Requested grade in the course: 100
